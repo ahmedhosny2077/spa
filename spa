@@ -1,6 +1,6 @@
 {
-    "version": "2.1.0",
-    "download_url": "https://github.com/ahmedhosny2077/spa/releases/download/v2.1.0/SPA_Management_Setup_v2.1.0.exe",
-    "release_notes_ar": "الإصدار الأول مع نظام التحديث التلقائي",
-    "file_size_mb": 57
+    "version": "2.2.0",
+    "download_url": "https://github.com/ahmedhosny2077/spa/releases/download/v2.2.0/SPA_Management_Setup_v2.2.0.exe",
+    "release_notes_ar": "نظام التحديث التلقائي وتحسينات عامة",
+    "file_size_mb": 50
 }
